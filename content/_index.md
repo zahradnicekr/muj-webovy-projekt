@@ -1,27 +1,23 @@
 ---
-title: Home
+title: Kostel sv. Filipa a Jakuba Home
 ---
 
-# Hello World! (It works!)
+# **Vznik a historie kostela. Zasazení kontextu vzniku v tomto místì a jaký význam toto místo mohlo mít. Možné a existující literární poznatky, fotodokumentace. Informace o pøilehlém hradišti.**
 
-This are the contents of the Hugo start website front page.
+<p>Historické zápisy o vzniku kostela a dochované historii. Zejména se pokusit komplexnì poskládat výzkymy a nálezy poslední doby, tedy období spadající øádovì 2O let zpìt a tím vytvoøit ucelený pøehled informací vazaných k tomuto místu.<p/>
 
-## Something to read: Sonnet LXVI.
+<p>Kromì zmínek a zápisù jak ze starých listin, tak novodobých výkazù zachytit krajinu kolem kostela a zmapovat i samotný kostel. Co se týèe interiéru, zdokumentovat postupnì veškeré jeho èásti.<p/>
 
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
+<p>V rámci této práce je vhodné se zamìøit na velmi blízké místo tomuto kostelu, kde stál døíve hrad. Dnes na tomto místì mùžeme zhlédnout jen zbytky opevnìní a travnatou siluetu bývalého hradištì.<p/>
+
+
+### Zdroje:
+
+https://iispp.npu.cz/mis_public/searchDocument.htm?search=id%3A%28357529+OR+357531+OR+838592%29
+
+https://iispp.npu.cz/carmen/detail/159161?ticketId=-10
+
+https://vufind.mzk.cz/Record/MZK01-001131108
+
+http://www.digitalniknihovna.cz/mzk/view/uuid:0986bb00-6623-11e3-ae59-005056827e52?page=uuid:e85f1220-92fe-11e3-8b69-005056825209
 
