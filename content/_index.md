@@ -1,14 +1,8 @@
 ---
-title: Kostel ahoj sv. Filipa a Jakuba Home
+title: Albánie 
 ---
 
-# **Vznik a historie kostela. Zasazení kontextu vzniku v tomto místì a jakı vıznam toto místo mohlo mít. Moné a existující literární poznatky, fotodokumentace. Informace o pøilehlém hradišti.**
-
-<p>Historické zápisy o vzniku kostela a dochované historii. Zejména se pokusit komplexnì poskládat vızkymy a nálezy poslední doby, tedy období spadající øádovì 2O let zpìt a tím vytvoøit ucelenı pøehled informací vazanıch k tomuto místu.<p/>
-
-<p>Kromì zmínek a zápisù jak ze starıch listin, tak novodobıch vıkazù zachytit krajinu kolem kostela a zmapovat i samotnı kostel. Co se tıèe interiéru, zdokumentovat postupnì veškeré jeho èásti.<p/>
-
-<p>V rámci této práce je vhodné se zamìøit na velmi blízké místo tomuto kostelu, kde stál døíve hrad. Dnes na tomto místì mùeme zhlédnout jen zbytky opevnìní a travnatou siluetu bıvalého hradištì.<p/>
+# **Albánie (albánskyf Shqipëri/Shqipëria, také Arbëria, úøednm názevem Albánská republika, albánsky Republika e Shqipërisë) je støedomoøskı stát v jihovıchodní Evropì na Balkánském poloostrovì. Na severu sousedí s Èernou Horou, na severovıchodì s Kosovem, na vıchodì se Severní Makedonií a na jihovıchodì s Øeckem. Západní èást Albánie leí na pobøeí Jaderského moøe, zatímco její jihozápadní èást leí na pobøeí Jónského moøe. Od Itálie, kterou od Albánie oddìluje Otrantskı prùliv, je vzdálena 72 kilometrù. Hlavní mìsto Tirana, kde ije pøiblinì 895 tisíc obyvatel, je finanèním centrem zemì. K roku 2011 ilo v zemi 2 821 997 obyvatel.[2] Etnicky se jedná o pomìrnì homogenní zemi, kterou z 95 % tvoøí Albánci, z náboenství zde pøevauje islám. Demograficky se jedná o velmi mladou zemi, nebo støední vìk obyvatelstva je 29,9 let (v porovnání 40,1 let u ÈR)
 
 
 ### Zdroje:
