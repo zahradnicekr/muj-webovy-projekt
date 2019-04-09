@@ -1,5 +1,5 @@
 ---
-title: Kostel sv. Filipa a Jakuba Home
+title: Kostel ahoj sv. Filipa a Jakuba Home
 ---
 
 # **Vznik a historie kostela. Zasazení kontextu vzniku v tomto místì a jaký význam toto místo mohlo mít. Možné a existující literární poznatky, fotodokumentace. Informace o pøilehlém hradišti.**
