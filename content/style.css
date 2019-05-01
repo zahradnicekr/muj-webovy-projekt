@@ -1,0 +1,51 @@
+
+{
+    margin: 0;
+    padding: 0;
+}
+/*---NavBar---*/
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+.navbar-brand img
+{
+    height: : 10px;
+    padding-left: 10px;
+}
+.navbar-nav li
+{
+    padding: 0 10px;
+}
+.navbar-nav li a
+{
+    float:  rigt;
+    text-align: left;
+}
+#nav-bar ul li a:hover
+{
+    color: #ff0000!important;
+}
+.navbar
+{
+    background: #ccecff!important;
+}
+.navbar-toggler
+{
+    border: : none!important
+}
+.nav-link
+{
+    color: #555!important;
+    font-weight: 500p;
+    font-size: 24px;
+}
+.carousel-caption
+{
+    color: #ffffff!important;
+    position: sticky;
+    bottom: 35px!important;
+}
+
